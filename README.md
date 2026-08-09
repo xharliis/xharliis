@@ -6,11 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=220&section=header&text=Alfonso%20Ondo%20Oyono&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Firmware&descSize=16&descAlignY=55&descAlign=50"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Firmware+%26+Embedded+Systems;DevOps+Engineer;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -64,36 +59,30 @@
 <div align="center">
 
 <!-- Streak Stats -->
-<a href="https://github.com/xharliis">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xharliis&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00b4d8&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/xharliis">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xharliis&bg_color=0d1117&color=00d4aa&line=00b4d8&point=ffffff&area_color=00d4aa&area=true&hide_border=true&custom_title=Contribuciones%20en%20el%20%C3%BAltimo%20a%C3%B1o" alt="Activity Graph"/>
-</a>
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=xharliis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/xharliis/xharliis/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<br/>
+###
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SNAKE CONTRIBUTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xharliis/xharliis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xharliis/xharliis/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xharliis/xharliis/output/github-snake.svg" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xharliis/xharliis/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xharliis/xharliis/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xharliis/xharliis/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
+
+
+
+
 </div>
 
 <br/>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                               -->
