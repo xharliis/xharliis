@@ -12,7 +12,6 @@
 <!--                        TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -54,7 +53,7 @@
 <!--                      GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## &nbsp;GitHub Stats
+## &nbsp;Estadísticas de GitHub
 
 <div align="center">
 
