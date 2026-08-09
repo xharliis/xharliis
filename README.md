@@ -62,11 +62,6 @@
 
 <br/><br/>
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=xharliis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph"/>
-
-<br/><br/>
-
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xharliis/xharliis/pacman-output/pacman-contribution-graph-dark.svg">
