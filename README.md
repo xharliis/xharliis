@@ -13,33 +13,22 @@
 
 <br/>
 
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aondo.dev-00d4aa?style=for-the-badge&logoColor=white)](https://aondo.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfonso_Ondo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ondo)
-[![GitHub](https://img.shields.io/badge/GitHub-xharliis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xharliis)
+<!-- Social & Contact -->
+<a href="https://aondo.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-aondo.dev-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/alfonso-ondo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Alfonso_Ondo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/xharliis" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-xharliis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=xharliis&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=xharliis&label=Profile%20Views&color=00d4aa&style=flat-square" alt="Profile views"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mí
-
-```yaml
-nombre: Alfonso Ondo Oyono
-ubicación: España 🇪🇸
-educación: Ingeniería Informática – Universidad de Salamanca 🎓
-rol_actual: Desarrollador Back-End de Software Embebido @ AIR Institute
-especialización: Full Stack · DevOps · Firmware · IoT
-web: https://aondo.dev
-```
-
-> *Mi formación académica se complementa con una fuerte vocación autodidacta, lo que me ha permitido adquirir habilidades técnicas más allá del currículo formal. Me apasiona la programación y disfruto diseñando soluciones tecnológicas que resuelvan problemas reales de forma eficiente y escalable.*
 
 <br/>
 
@@ -93,13 +82,6 @@ web: https://aondo.dev
 
 <div align="center">
 
-<a href="https://github.com/xharliis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xharliis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xharliis&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
 <!-- Streak Stats -->
 <a href="https://github.com/xharliis">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xharliis&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00b4d8&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
@@ -124,10 +106,30 @@ web: https://aondo.dev
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub_Actions-Esencial-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-Microservicios_con_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Avanzado-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/><br/>
+  <sub><b>GitHub Actions</b></sub><br/>
+  <sub>Esencial</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+  <sub><b>DevOps</b></sub><br/>
+  <sub>Microservicios con Docker</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br/>
+  <sub><b>AWS</b></sub><br/>
+  <sub>Cloud</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
+  <sub><b>C++</b></sub><br/>
+  <sub>Avanzado</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -156,13 +158,5 @@ web: https://aondo.dev
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=120&section=footer"/>
-
-<br/>
-
-<sub>⚡ Hecho con pasión desde España 🇪🇸</sub>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=435&lines=%22El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden.%22)](https://aondo.dev)
 
 </div>
