@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+Inform%C3%A1tico+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Firmware+%26+Embedded+Systems+%F0%9F%94%A7;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Firmware+%26+Embedded+Systems;DevOps+Engineer;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </a>
 
 <br/>
