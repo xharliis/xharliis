@@ -13,55 +13,36 @@
 
 <br/>
 
-<!-- Social & Contact -->
-<a href="https://aondo.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-aondo.dev-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/alfonso-ondo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Alfonso_Ondo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/xharliis" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-xharliis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=xharliis&label=Profile%20Views&color=00d4aa&style=flat-square" alt="Profile views"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
-### 💻 Lenguajes & Frameworks
+### Lenguajes & Frameworks
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,angular,laravel,dotnet&perline=10" alt="Languages"/>
   </a>
 </p>
 
-### 🗄️ Bases de Datos & Cloud
+### Bases de Datos & Cloud
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,aws,azure&perline=5" alt="Databases & Cloud"/>
   </a>
 </p>
 
-### ⚙️ DevOps & Herramientas
+### DevOps & Herramientas
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,terraform,grafana,prometheus,raspberrypi,arduino&perline=10" alt="DevOps & Tools"/>
   </a>
 </p>
 
-### 📡 IoT & Protocolos
+### IoT & Protocolos
 <p>
   <img src="https://img.shields.io/badge/I2C-00599C?style=for-the-badge&logo=protocols.io&logoColor=white" alt="I2C"/>
   <img src="https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge&logo=protocols.io&logoColor=white" alt="SPI"/>
@@ -78,7 +59,7 @@
 <!--                      GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -93,43 +74,6 @@
 <a href="https://github.com/xharliis">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xharliis&bg_color=0d1117&color=00d4aa&line=00b4d8&point=ffffff&area_color=00d4aa&area=true&hide_border=true&custom_title=Contribuciones%20en%20el%20%C3%BAltimo%20a%C3%B1o" alt="Activity Graph"/>
 </a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CERTIFICATIONS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Certificaciones
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/><br/>
-  <sub><b>GitHub Actions</b></sub><br/>
-  <sub>Esencial</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
-  <sub><b>DevOps</b></sub><br/>
-  <sub>Microservicios con Docker</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br/>
-  <sub><b>AWS</b></sub><br/>
-  <sub>Cloud</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
-  <sub><b>C++</b></sub><br/>
-  <sub>Avanzado</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
